@@ -10,7 +10,7 @@ A user will enter into the garage, download the mobile app, if they havent done 
 
 When they app receives a user registration it will add it to the database with the role of Customer. Only an Admin can assign a User have the role of Admin.
 
-When someone fills out the parking space information they will need the following data:
+When someone fills out the parking space information they will need the following data: (refer to the solution, if you need help)
 
 ## Vehicle:
 - Make (searchable dropdown)
